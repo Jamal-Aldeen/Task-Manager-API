@@ -48,10 +48,6 @@ A modern, full-stack task management application built with **Laravel** and **Li
 
 ---
 
-## 📸 More Screenshots
-
-For additional screenshots and detailed documentation, see the [Screenshot Guide](screenshots/README.md) which includes:
-
 - **Authentication flows** (login validation, registration errors)
 - **Task management** (add, edit, delete, toggle status)
 - **Responsive design** (mobile and tablet views)
@@ -172,9 +168,5 @@ For additional screenshots and detailed documentation, see the [Screenshot Guide
 3. Configure web server (Apache/Nginx) with `/public` as document root
 4. Run migrations: `php artisan migrate --force`
 
----
-
-## 📝 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
