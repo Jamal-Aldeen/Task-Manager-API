@@ -1,16 +1,27 @@
-# Task Manager Application - README
+# Task Manager Application
 
 A modern, full-stack task management application built with **Laravel** and **Livewire**, featuring a responsive web interface and a robust REST API. Developed for the **Junior Full-Stack Laravel Developer assessment** at **ABM Egypt**.
 
 ---
 
-# Image Paths for Task Manager Application
+## 📸 Application Screenshots
 
-1. **Login Page**: `screenshots/login.png`
-2. **Register Page**: `screenshots/register.png`
-3. **Dashboard**: `screenshots/dashboard.png`
-4. **Dashboard**: `screenshots/dashboard1.png`
-5. **Dashboard**: `screenshots/dashboard2.png`
+### Authentication Pages
+![Login Page](screenshots/login.png)
+*Login page with secure authentication*
+
+![Register Page](screenshots/register.png)
+*User registration with validation*
+
+### Dashboard Views
+![Main Dashboard](screenshots/dashboard.png)
+*Main dashboard with task management*
+
+![Dashboard View 1](screenshots/dashboard1.png)
+*Dashboard showing task list and operations*
+
+![Dashboard View 2](screenshots/dashboard2.png)
+*Dashboard with various task states*
 
 
 ## 🚀 Features
@@ -37,9 +48,15 @@ A modern, full-stack task management application built with **Laravel** and **Li
 
 ---
 
-## 📸 Screenshots
+## 📸 More Screenshots
 
-See the [Screenshot Guide](SCREENSHOT_GUIDE.md) for a detailed list of recommended screenshots, including authentication pages, dashboard, task management, responsive views, and UI elements.
+For additional screenshots and detailed documentation, see the [Screenshot Guide](screenshots/README.md) which includes:
+
+- **Authentication flows** (login validation, registration errors)
+- **Task management** (add, edit, delete, toggle status)
+- **Responsive design** (mobile and tablet views)
+- **UI interactions** (loading states, success messages)
+- **Error handling** (validation errors, confirmations)
 
 ---
 
